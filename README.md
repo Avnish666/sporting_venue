@@ -52,11 +52,11 @@ The system helps users make smarter decisions and reduces congestion across venu
 ---
 ## ⚙️ How to Run Locally
 ### 1️⃣ Backend
-bash
+`bash
 cd backend
-mvn spring-boot:run
+mvn spring-boot:run`
 ### 2️⃣ Frontend
-bash
+`bash
 cd frontend
 npm install
-npm run dev
+npm run dev`
