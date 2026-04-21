@@ -57,6 +57,6 @@ cd backend
 mvn spring-boot:run`
 ### 2️⃣ Frontend
 `bash
-cd frontend
-npm install
+cd frontend\
+npm install\
 npm run dev`
